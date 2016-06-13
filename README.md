@@ -1,2 +1,2 @@
-# freepe-core
-Server with unified API protocol
+# freepe-community
+Cайт сообщества, там есть блог, описание, планы, партнеры. Можно кооперироваться, принимать решения и определять цели. 
